@@ -1,0 +1,35 @@
+# Środowisko Python
+.venv/
+venv/
+
+# Pliki tymczasowe Python
+__pycache__/
+*.py[cod]
+
+# Pliki systemowe macOS
+.DS_Store
+._*
+
+# Ustawienia edytorów
+.vscode/
+.idea/
+
+# Duże pliki audio i wideo
+*.wav
+*.mp4
+*.mov
+
+# Pliki tymczasowe
+.ipynb_checkpoints/
+
+
+# Dane i starsze wersje kodu
+/KP/
+/starsze wersje/
+
+# Kopia poprzedniego repozytorium Git
+/.git-backup/
+
+# Lokalne decyzje i raporty
+manual_decisions.json
+manifest_review_report.txt
